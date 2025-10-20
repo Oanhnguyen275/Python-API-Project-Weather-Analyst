@@ -16,6 +16,8 @@ This project is a Python-based dashboard that fetches real-time **weather** and 
 📊 Visualizations
 Hotel Availability Map (Interactive)
 
-Interactive map shows hotel locations, city. Hover over markers to see hotel name and country.
-<img width="1091" height="941" alt="Screenshot 2568-10-20 at 3 51 47 PM" src="https://github.com/user-attachments/assets/93982491-7801-4488-9d22-7217fe93631c" />
-<img width="1121" height="938" alt="Screenshot 2568-10-20 at 3 51 34 PM" src="https://github.com/user-attachments/assets/41705dcf-536e-4a4e-8512-058a81d0786a" />
+Interactive map shows hotel locations, city, and humidity.
+<img width="951" height="570" alt="Screenshot 2568-10-20 at 4 00 29 PM" src="https://github.com/user-attachments/assets/5c1df62c-0e6a-4a88-a6bf-47e2e83ea121" />
+
+Interactive map shows hotel locations, city, and Country. Hover over markers to see hotel name and country.
+<img width="953" height="576" alt="Screenshot 2568-10-20 at 3 59 10 PM" src="https://github.com/user-attachments/assets/d3061986-fef6-4b6e-b191-214926969b67" />
